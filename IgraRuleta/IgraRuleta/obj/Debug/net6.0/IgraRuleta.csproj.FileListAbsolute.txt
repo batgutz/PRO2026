@@ -1,0 +1,15 @@
+C:\PRO2026\IgraRuleta\IgraRuleta\bin\Debug\net6.0\IgraRuleta.exe
+C:\PRO2026\IgraRuleta\IgraRuleta\bin\Debug\net6.0\IgraRuleta.deps.json
+C:\PRO2026\IgraRuleta\IgraRuleta\bin\Debug\net6.0\IgraRuleta.runtimeconfig.json
+C:\PRO2026\IgraRuleta\IgraRuleta\bin\Debug\net6.0\IgraRuleta.dll
+C:\PRO2026\IgraRuleta\IgraRuleta\bin\Debug\net6.0\IgraRuleta.pdb
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.csproj.AssemblyReference.cache
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.AssemblyInfoInputs.cache
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.AssemblyInfo.cs
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.csproj.CoreCompileInputs.cache
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.dll
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\refint\IgraRuleta.dll
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.pdb
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\IgraRuleta.genruntimeconfig.cache
+C:\PRO2026\IgraRuleta\IgraRuleta\obj\Debug\net6.0\ref\IgraRuleta.dll

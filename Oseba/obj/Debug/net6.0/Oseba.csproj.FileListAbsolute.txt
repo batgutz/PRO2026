@@ -1,0 +1,15 @@
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.csproj.AssemblyReference.cache
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.AssemblyInfoInputs.cache
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.AssemblyInfo.cs
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.csproj.CoreCompileInputs.cache
+C:\PRO2026\Oseba\bin\Debug\net6.0\Oseba.exe
+C:\PRO2026\Oseba\bin\Debug\net6.0\Oseba.deps.json
+C:\PRO2026\Oseba\bin\Debug\net6.0\Oseba.runtimeconfig.json
+C:\PRO2026\Oseba\bin\Debug\net6.0\Oseba.dll
+C:\PRO2026\Oseba\bin\Debug\net6.0\Oseba.pdb
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.dll
+C:\PRO2026\Oseba\obj\Debug\net6.0\refint\Oseba.dll
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.pdb
+C:\PRO2026\Oseba\obj\Debug\net6.0\Oseba.genruntimeconfig.cache
+C:\PRO2026\Oseba\obj\Debug\net6.0\ref\Oseba.dll

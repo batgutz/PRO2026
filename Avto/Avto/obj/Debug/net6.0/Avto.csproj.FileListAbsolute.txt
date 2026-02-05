@@ -1,0 +1,15 @@
+C:\PRO2026\Avto\Avto\bin\Debug\net6.0\Avto.exe
+C:\PRO2026\Avto\Avto\bin\Debug\net6.0\Avto.deps.json
+C:\PRO2026\Avto\Avto\bin\Debug\net6.0\Avto.runtimeconfig.json
+C:\PRO2026\Avto\Avto\bin\Debug\net6.0\Avto.dll
+C:\PRO2026\Avto\Avto\bin\Debug\net6.0\Avto.pdb
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.csproj.AssemblyReference.cache
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.AssemblyInfoInputs.cache
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.AssemblyInfo.cs
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.csproj.CoreCompileInputs.cache
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.dll
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\refint\Avto.dll
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.pdb
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\Avto.genruntimeconfig.cache
+C:\PRO2026\Avto\Avto\obj\Debug\net6.0\ref\Avto.dll

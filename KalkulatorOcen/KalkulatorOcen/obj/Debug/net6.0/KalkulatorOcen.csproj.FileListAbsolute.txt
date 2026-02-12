@@ -1,0 +1,15 @@
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\bin\Debug\net6.0\KalkulatorOcen.exe
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\bin\Debug\net6.0\KalkulatorOcen.deps.json
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\bin\Debug\net6.0\KalkulatorOcen.runtimeconfig.json
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\bin\Debug\net6.0\KalkulatorOcen.dll
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\bin\Debug\net6.0\KalkulatorOcen.pdb
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.csproj.AssemblyReference.cache
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.AssemblyInfoInputs.cache
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.AssemblyInfo.cs
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.csproj.CoreCompileInputs.cache
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.dll
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\refint\KalkulatorOcen.dll
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.pdb
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\KalkulatorOcen.genruntimeconfig.cache
+C:\PRO2026\KalkulatorOcen\KalkulatorOcen\obj\Debug\net6.0\ref\KalkulatorOcen.dll
